@@ -4,15 +4,15 @@
 
 | Sr. No. | Day | Problem | Link | Solution |
 | :--- | :--- | :--- | :--- | :--- |
-| 0 | - | Stock Maximize | [HackerRank](https://www.hackerrank.com/challenges/stockmax/problem) | - |
-| 1 | - | Fibonacci Modified | [HackerRank](https://www.hackerrank.com/challenges/fibonacci-modified/problem) | - |
-| 2 | - | Xor and Sum | [HackerRank](https://www.hackerrank.com/challenges/xor-and-sum/problem) | - |
-| 3 | - | Red John is Back | [HackerRank](https://www.hackerrank.com/challenges/red-john-is-back/problem) | - |
-| 4 | - | Knapsack | [HackerRank](https://www.hackerrank.com/challenges/unbounded-knapsack/problem) | - |
-| 5 | - | Bricks Game | [HackerRank](https://www.hackerrank.com/challenges/play-game/problem) | - |
-| 6 | - | Hexagonal Grid | [HackerRank](https://www.hackerrank.com/challenges/hexagonal-grid/problem) | - |
-| 7 | - | The Coin Change Problem | [HackerRank](https://www.hackerrank.com/challenges/coin-change/problem) | - |
-| 8 | - | The Maximum Subarray | [HackerRank](https://www.hackerrank.com/challenges/maxsubarray/problem) | - |
+| 0 | Day 1 | The Coin Change Problem | [HackerRank](https://www.hackerrank.com/challenges/coin-change/problem) | - |
+| 1 | Day 2 | Fibonacci Modified | [HackerRank](https://www.hackerrank.com/challenges/fibonacci-modified/problem) | - |
+| 2 | Day 3 | The Maximum Subarray | [HackerRank](https://www.hackerrank.com/challenges/maxsubarray/problem) | - |
+| 3 | Day 3 | Stock Maximize | [HackerRank](https://www.hackerrank.com/challenges/stockmax/problem) | - |
+| 4 | - | Xor and Sum | [HackerRank](https://www.hackerrank.com/challenges/xor-and-sum/problem) | - |
+| 5 | - | Red John is Back | [HackerRank](https://www.hackerrank.com/challenges/red-john-is-back/problem) | - |
+| 6 | - | Knapsack | [HackerRank](https://www.hackerrank.com/challenges/unbounded-knapsack/problem) | - |
+| 7 | - | Bricks Game | [HackerRank](https://www.hackerrank.com/challenges/play-game/problem) | - |
+| 8 | - | Hexagonal Grid | [HackerRank](https://www.hackerrank.com/challenges/hexagonal-grid/problem) | - |
 | 9 | - | Lego Blocks | [HackerRank](https://www.hackerrank.com/challenges/lego-blocks/problem) | - |
 | 10 | - | Mandragora Forest | [HackerRank](https://www.hackerrank.com/challenges/mandragora/problem) | - |
 | 11 | - | Play with words | [HackerRank](https://www.hackerrank.com/challenges/strplay/problem) | - |
