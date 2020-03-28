@@ -4,12 +4,12 @@
 
 | Sr. No. | Day | Problem | Link | Solution |
 | :--- | :--- | :--- | :--- | :--- |
-| 0 | Day 1 | The Coin Change Problem | [HackerRank](https://www.hackerrank.com/challenges/coin-change/problem) | - |
-| 1 | Day 2 | Fibonacci Modified | [HackerRank](https://www.hackerrank.com/challenges/fibonacci-modified/problem) | - |
-| 2 | Day 3 | The Maximum Subarray | [HackerRank](https://www.hackerrank.com/challenges/maxsubarray/problem) | - |
-| 3 | Day 3 | Stock Maximize | [HackerRank](https://www.hackerrank.com/challenges/stockmax/problem) | - |
-| 4 | - | Xor and Sum | [HackerRank](https://www.hackerrank.com/challenges/xor-and-sum/problem) | - |
-| 5 | - | Red John is Back | [HackerRank](https://www.hackerrank.com/challenges/red-john-is-back/problem) | - |
+| 0 | [Day 1](https://github.com/sanketd617/21DaysOfDP/tree/master/day-1) | The Coin Change Problem | [HackerRank](https://www.hackerrank.com/challenges/coin-change/problem) | [coin-change](https://github.com/sanketd617/21DaysOfDP/tree/master/day-1/coin-change) |
+| 1 | [Day 2](https://github.com/sanketd617/21DaysOfDP/tree/master/day-2) | Fibonacci Modified | [HackerRank](https://www.hackerrank.com/challenges/fibonacci-modified/problem) | [fibonacci-modified](https://github.com/sanketd617/21DaysOfDP/tree/master/day-2/fibonacci-modified) |
+| 2 | [Day 3](https://github.com/sanketd617/21DaysOfDP/tree/master/day-3) | The Maximum Subarray | [HackerRank](https://www.hackerrank.com/challenges/maxsubarray/problem) | [maxsubarray](https://github.com/sanketd617/21DaysOfDP/tree/master/day-3/maxsubarray) |
+| 3 | [Day 3](https://github.com/sanketd617/21DaysOfDP/tree/master/day-3) | Stock Maximize | [HackerRank](https://www.hackerrank.com/challenges/stockmax/problem) | [stockmax](https://github.com/sanketd617/21DaysOfDP/tree/master/day-3/stockmax) |
+| 4 | [Day 4](https://github.com/sanketd617/21DaysOfDP/tree/master/day-3) | Xor and Sum | [HackerRank](https://www.hackerrank.com/challenges/xor-and-sum/problem) | [xor-and-sum](https://github.com/sanketd617/21DaysOfDP/tree/master/day-4/xor-and-sum) |
+| 5 | [Day 4](https://github.com/sanketd617/21DaysOfDP/tree/master/day-3) | Red John is Back | [HackerRank](https://www.hackerrank.com/challenges/red-john-is-back/problem) | [red-john-is-back](https://github.com/sanketd617/21DaysOfDP/tree/master/day-4/red-john-is-back) |
 | 6 | - | Knapsack | [HackerRank](https://www.hackerrank.com/challenges/unbounded-knapsack/problem) | - |
 | 7 | - | Bricks Game | [HackerRank](https://www.hackerrank.com/challenges/play-game/problem) | - |
 | 8 | - | Hexagonal Grid | [HackerRank](https://www.hackerrank.com/challenges/hexagonal-grid/problem) | - |
