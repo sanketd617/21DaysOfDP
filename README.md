@@ -11,7 +11,7 @@
 | 4 | [Day 4](https://github.com/sanketd617/21DaysOfDP/tree/master/day-4) | Xor and Sum | [HackerRank](https://www.hackerrank.com/challenges/xor-and-sum/problem) | [xor-and-sum](https://github.com/sanketd617/21DaysOfDP/tree/master/day-4/xor-and-sum) |
 | 5 | [Day 4](https://github.com/sanketd617/21DaysOfDP/tree/master/day-4) | Red John is Back | [HackerRank](https://www.hackerrank.com/challenges/red-john-is-back/problem) | [red-john-is-back](https://github.com/sanketd617/21DaysOfDP/tree/master/day-4/red-john-is-back) |
 | 6 | [Day 5](https://github.com/sanketd617/21DaysOfDP/tree/master/day-5) | Knapsack | [HackerRank](https://www.hackerrank.com/challenges/unbounded-knapsack/problem) | [unbounded-knapsack](https://github.com/sanketd617/21DaysOfDP/tree/master/day-5/unbounded-knapsack) |
-| 7 | - | Bricks Game | [HackerRank](https://www.hackerrank.com/challenges/play-game/problem) | - |
+| 7 | [Day 5](https://github.com/sanketd617/21DaysOfDP/tree/master/day-5) | Bricks Game | [HackerRank](https://www.hackerrank.com/challenges/play-game/problem) | [play-game](https://github.com/sanketd617/21DaysOfDP/tree/master/day-5/play-game) |
 | 8 | - | Hexagonal Grid | [HackerRank](https://www.hackerrank.com/challenges/hexagonal-grid/problem) | - |
 | 9 | - | Lego Blocks | [HackerRank](https://www.hackerrank.com/challenges/lego-blocks/problem) | - |
 | 10 | - | Mandragora Forest | [HackerRank](https://www.hackerrank.com/challenges/mandragora/problem) | - |
