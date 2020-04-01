@@ -14,7 +14,7 @@
 | 7 | [29/03/2020](https://github.com/sanketd617/21DaysOfDP/tree/master/day-5) | Bricks Game | [HackerRank](https://www.hackerrank.com/challenges/play-game/problem) | [play-game](https://github.com/sanketd617/21DaysOfDP/tree/master/day-5/play-game) |
 | 8 | [29/03/2020](https://github.com/sanketd617/21DaysOfDP/tree/master/day-5) | Hexagonal Grid | [HackerRank](https://www.hackerrank.com/challenges/hexagonal-grid/problem) | [hexagonal-grid](https://github.com/sanketd617/21DaysOfDP/tree/master/day-5/hexagonal-grid) |
 | 9 | [01/04/2020](https://github.com/sanketd617/21DaysOfDP/tree/master/day-6) | Lego Blocks | [HackerRank](https://www.hackerrank.com/challenges/lego-blocks/problem) | [lego-blocks](https://github.com/sanketd617/21DaysOfDP/tree/master/day-6/lego-blocks) |
-| 10 | - | Mandragora Forest | [HackerRank](https://www.hackerrank.com/challenges/mandragora/problem) | - |
+| 10 | [02/04/2020](https://github.com/sanketd617/21DaysOfDP/tree/master/day-7) | Mandragora Forest | [HackerRank](https://www.hackerrank.com/challenges/mandragora/problem) | [mandragora](https://github.com/sanketd617/21DaysOfDP/tree/master/day-7/mandragora) |
 | 11 | - | Play with words | [HackerRank](https://www.hackerrank.com/challenges/strplay/problem) | - |
 | 12 | - | Superman Celebrates Diwali  | [HackerRank](https://www.hackerrank.com/challenges/superman-celebrates-diwali/problem) | - |
 | 13 | - | HackerRank City | [HackerRank](https://www.hackerrank.com/challenges/hr-city/problem) | - |
